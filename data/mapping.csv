@@ -1,39 +1,39 @@
-pv_class,pd_class,is_mapped,mapped_label_id,match_score,note
-Apple___Apple_scab,Apple leaf,0,-1,0.69,Auto-matched
-Apple___Black_rot,grape leaf black rot,0,-1,0.8,Auto-matched
-Apple___Cedar_apple_rust,None,0,-1,0.59,PV only (PD missing)
-Apple___healthy,Apple leaf,1,0,0.7,Auto-matched
-Blueberry___healthy,Blueberry leaf,1,1,0.77,Auto-matched
-Cherry_(including_sour)___Powdery_mildew,None,0,-1,0.5,PV only (PD missing)
-Cherry_(including_sour)___healthy,None,0,-1,0.48,PV only (PD missing)
-Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,None,0,-1,0.57,PV only (PD missing)
-Corn_(maize)___Common_rust_,None,0,-1,0.51,PV only (PD missing)
-Corn_(maize)___Northern_Leaf_Blight,Corn leaf blight,1,2,0.65,Auto-matched
-Corn_(maize)___healthy,None,0,-1,0.51,PV only (PD missing)
-Grape___Black_rot,grape leaf black rot,1,3,0.86,Auto-matched
-Grape___Esca_(Black_Measles),grape leaf black rot,0,-1,0.65,Auto-matched
-Grape___Leaf_blight_(Isariopsis_Leaf_Spot),None,0,-1,0.57,PV only (PD missing)
-Grape___healthy,grape leaf,1,4,0.7,Auto-matched
-Orange___Haunglongbing_(Citrus_greening),None,0,-1,0.35,PV only (PD missing)
-Peach___Bacterial_spot,Tomato leaf bacterial spot,0,-1,0.74,Auto-matched
-Peach___healthy,Peach leaf,1,5,0.7,Auto-matched
-"Pepper,_bell___Bacterial_spot",Tomato leaf bacterial spot,0,-1,0.6,Auto-matched
-"Pepper,_bell___healthy",None,0,-1,0.56,PV only (PD missing)
-Potato___Early_blight,Potato leaf early blight,1,6,0.88,Auto-matched
-Potato___Late_blight,Potato leaf late blight,1,7,0.88,Auto-matched
-Potato___healthy,Potato leaf late blight,0,-1,0.65,Auto-matched
-Raspberry___healthy,Raspberry leaf,1,8,0.77,Auto-matched
-Soybean___healthy,Soyabean leaf,1,9,0.71,Auto-matched
-Squash___Powdery_mildew,Squash Powdery mildew leaf,1,10,0.89,Auto-matched
-Strawberry___Leaf_scorch,Strawberry leaf,0,-1,0.81,Auto-matched
-Strawberry___healthy,Strawberry leaf,1,11,0.79,Auto-matched
-Tomato___Bacterial_spot,Tomato leaf bacterial spot,1,12,0.89,Auto-matched
-Tomato___Early_blight,Tomato Early blight leaf,1,13,0.88,Auto-matched
-Tomato___Late_blight,Tomato leaf late blight,1,14,0.88,Auto-matched
-Tomato___Leaf_Mold,Tomato leaf,0,-1,0.81,Auto-matched
-Tomato___Septoria_leaf_spot,Tomato Septoria leaf spot,1,15,1,Auto-matched
-Tomato___Spider_mites Two-spotted_spider_mite,Tomato two spotted spider mites leaf,1,16,0.73,Auto-matched
-Tomato___Target_Spot,Tomato Septoria leaf spot,0,-1,0.7,Auto-matched
-Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato leaf yellow virus,1,17,0.7,Auto-matched
-Tomato___Tomato_mosaic_virus,Tomato leaf mosaic virus,1,18,0.84,Auto-matched
-Tomato___healthy,Tomato leaf,1,19,0.72,Auto-matched
+pv_class,pd_class,is_mapped,mapped_label_id
+Apple___Apple_scab,Apple leaf,0,-1
+Apple___Black_rot,grape leaf black rot,0,-1
+Apple___Cedar_apple_rust,None,0,-1
+Apple___healthy,Apple leaf,1,0
+Blueberry___healthy,Blueberry leaf,1,1
+Cherry_(including_sour)___Powdery_mildew,None,0,-1
+Cherry_(including_sour)___healthy,None,0,-1
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,None,0,-1
+Corn_(maize)___Common_rust_,None,0,-1
+Corn_(maize)___Northern_Leaf_Blight,Corn leaf blight,1,2
+Corn_(maize)___healthy,None,0,-1
+Grape___Black_rot,grape leaf black rot,1,3
+Grape___Esca_(Black_Measles),grape leaf black rot,0,-1
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),None,0,-1
+Grape___healthy,grape leaf,1,4
+Orange___Haunglongbing_(Citrus_greening),None,0,-1
+Peach___Bacterial_spot,Tomato leaf bacterial spot,0,-1
+Peach___healthy,Peach leaf,1,5
+"Pepper,_bell___Bacterial_spot",Tomato leaf bacterial spot,0,-1
+"Pepper,_bell___healthy",None,0,-1
+Potato___Early_blight,Potato leaf early blight,1,6
+Potato___Late_blight,Potato leaf late blight,1,7
+Potato___healthy,Potato leaf late blight,0,-1
+Raspberry___healthy,Raspberry leaf,1,8
+Soybean___healthy,Soyabean leaf,1,9
+Squash___Powdery_mildew,Squash Powdery mildew leaf,1,10
+Strawberry___Leaf_scorch,Strawberry leaf,0,-1
+Strawberry___healthy,Strawberry leaf,1,11
+Tomato___Bacterial_spot,Tomato leaf bacterial spot,1,12
+Tomato___Early_blight,Tomato Early blight leaf,1,13
+Tomato___Late_blight,Tomato leaf late blight,1,14
+Tomato___Leaf_Mold,Tomato leaf,0,-1
+Tomato___Septoria_leaf_spot,Tomato Septoria leaf spot,1,15
+Tomato___Spider_mites Two-spotted_spider_mite,Tomato two spotted spider mites leaf,1,16
+Tomato___Target_Spot,Tomato Septoria leaf spot,0,-1
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato leaf yellow virus,1,17
+Tomato___Tomato_mosaic_virus,Tomato leaf mosaic virus,1,18
+Tomato___healthy,Tomato leaf,1,19
